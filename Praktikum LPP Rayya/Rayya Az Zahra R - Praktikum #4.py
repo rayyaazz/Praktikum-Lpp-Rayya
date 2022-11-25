@@ -1,0 +1,10 @@
+>>> kalimat_starter = "Beberapa tahun lalu"
+>>> karakter = " Rayya dan keluarga jalan-jalan ke Labuan Bajo"
+>>> waktu = "Kami berangkat jam 3 pagi"
+>>> story_plot = "Kami berangkat seperti biasa sampai di bandara langsung menaiki pesawat"
+>>> tempat = "Perjalanan di pesawat begitu menyenangkan sambil menonton film "
+>>> second_character = "Aku menonton film dengan duduk bersebelahan bersama saudaraku"
+>>> usia = "Ia terlihat sepantara denganku namun padahal dia lebih tua 3 tahun diatas aku"
+>>> pekerjaan = "Pada saat itu kita menonton film sangat antusias sambil memakan cemilan yang diberikan pramugarinya"
+>>> f"{kalimat_starter} {karakter} {waktu} {story_plot} {tempat} {second_character} {usia} {pekerjaan}"
+'Beberapa tahun lalu Rayya dan keluarga jalan jalan ke Labuan Bajo kami berangkat jam 3 pagi kami berangkat seperti biasa sampai di bandara langsung menaiki pesawat perjalanan di pesawat begitu menyenangkan sambil menonton film aku menonton film dengan duduk bersebelahan bersama saudaraku ia terlihat sepantara denganku namun padahal dia lebih tua 3 tahun diatas aku pada saat itu kita menonton film sangat antusias sambil memakan cemilan yang diberikan pramugarinya'
